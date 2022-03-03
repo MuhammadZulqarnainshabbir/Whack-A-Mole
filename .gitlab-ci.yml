@@ -26,7 +26,8 @@ deploy-webpages:
     - echo "$SSH_KNOWN_HOSTS" >> ~/.ssh/known_hosts
     - chmod 644 ~/.ssh/known_hosts
   script:
-  - ssh $GITLAB_USER_LOGIN@joan.th-deg.de -- rm -rf ~/public_html/$CI_PROJECT_NAME
-  - scp -r _build/html $GITLAB_USER_LOGIN@joan.th-deg.de:public_html/$CI_PROJECT_NAME
+  - echo $GITLAB_USER_LOGIN
+  - ssh gaydos@joan.th-deg.de -- rm -rf ~/public_html/$CI_PROJECT_NAME
+  - scp -r _build/html gaydos@joan.th-deg.de:public_html/$CI_PROJECT_NAME
   except:
     - merge_requests
