@@ -55,13 +55,13 @@ chmod go+x ~  # Add (listing the files is forbidden, because `r` is missing)
 chmod go+rx public_html
 ```
 
-If you already have other files and folders in public_html
+If you already have other files and folders in `public_html`, then make them readable by other users:
 
 ```sh
 # Give others the permission to read all the files
-find -type f -exec chmod go+r {} +
-# Give others the permission to enter the directories
-find -type d -exec chmod go+x {} +
+find ~/public_html -type f -exec chmod go+r {} +
+# Give others the permission to enter and list the directories
+find ~/public_html -type d -exec chmod go+rx {} +
 ```
 
 ## Automatic
