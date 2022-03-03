@@ -51,7 +51,6 @@ We have to give other users (your group & others) the permission to public_html 
 chmod go-rx --recursive ~  # Remove rx from other users from all files/folders
 chmod go+x ~  # Add (listing the files is forbidden, because `r` is missing)
  
-
 # and with the exception of public_html
 chmod go+rx public_html
 ```
@@ -74,6 +73,7 @@ Three steps:
 1. Setting up the values for the variables in `.gitlab-ci.yml`
 1. Modifying `.gitlab-ci.yml` according to your username and the deployment folder on the web server
 1. Activating a runner in `Settings - CI/CD - Runners`. A shared runner may be available. 
+1. Check the status of the runner on the main page of your repository. If successful, you should see the result on the web address, e.g., https://joan.th-deg.de/~gaydos/sphinx-book-template
 
 The explanation for the first steps follows:
 
