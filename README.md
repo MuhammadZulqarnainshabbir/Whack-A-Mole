@@ -8,7 +8,7 @@ You can write your content in Markdown or reStructuredtext. I recommend Markdown
 
 Create a Python virtual environment to not influence your standard Python development environment:
 
-```
+```sh
 virtualenv venv
 . ./venv/bin/activate
 pip install sphinx-book-theme myst-parser
@@ -21,14 +21,14 @@ First fork this project using the fork button on the top right. Then clone your 
 
 # Creating html
 
-```
+```sh
 cd sphinx-book-template
 SPHINXBUILD=~/venv/bin/sphinx-build make html
 ```
 
 You can view the output using your browser, e.g.:
 
-```
+```sh
 xdg-open _build/html
 ```
 
@@ -40,7 +40,7 @@ You can copy the folder `html` on a web server.
 
 If you are using a server which serves the `$HOME/public_html` to the web, then make sure that the web server has access to this folder. In the following example we are using a server called `joan.th-deg.de`:
 
-```
+```sh
 ssh joan.th-deg.de
 mkdir public_html  # This folder will be shared
 
@@ -55,7 +55,8 @@ chmod o+rx public_html
 ```
 
 If you already have other files and folders in public_html
-```
+
+```sh
 # Give others the permission to read all the files
 find -type f -exec chmod o+r {} +
 # Give others the permission to enter the directories
