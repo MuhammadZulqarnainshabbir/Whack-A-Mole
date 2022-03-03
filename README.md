@@ -47,8 +47,8 @@ mkdir public_html  # This folder will be shared
 # Give others the permission to enter your home directory (listing is forbidden, because `r` is missing)
 chmod o+x ~
 
-# Now other users could read the files by guessing their filename, so remove the read permission for others
-chmod o-r --recursive ~
+# Now other users could read the files by guessing their filename, so remove the read permission and execute/enter-directory permission for others
+chmod o-rx --recursive ~
 
 # ... with exception of public_html
 chmod o+rx public_html
@@ -101,6 +101,15 @@ For example a SSH public key of `joan.th-deg.de` is:
 ```
 joan.th-deg.de ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPYxtnUvjyLdIDkzs4GEzv6KnSN88uPQCC3H/IcuEToe
 ```
+
+#### Giving access to an SSH key
+
+Finally we have to give an SSH key access to our account. To give access append the public key to `$HOME/.ssh/authorized_keys` on the web server. For example:
+
+```
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOBL7HM8eE9jmBm5Yz/sJeStc3mGAJp5R8EvVJ4zb9T9 gaydos@joan
+```
+
 
 # Further docs
 
