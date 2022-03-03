@@ -43,24 +43,26 @@ If you are using a server which serves the `$HOME/public_html` to the web, then 
 ```sh
 ssh joan.th-deg.de
 mkdir public_html  # This folder will be shared
+```
 
-# Give others the permission to enter your home directory (listing is forbidden, because `r` is missing)
-chmod o+x ~
+We have to give other users (your group & others) the permission to public_html by giving listing access to your home folder. But other users could now could read the files by guessing their filename, so  we have to remove the read permission and execute/enter-directory permission for other users:
 
-# Now other users could read the files by guessing their filename, so remove the read permission and execute/enter-directory permission for others
-chmod o-rx --recursive ~
+```sh
+chmod go-rx --recursive ~  # Remove rx from other users from all files/folders
+chmod go+x ~  # Add (listing the files is forbidden, because `r` is missing)
+ 
 
-# ... with exception of public_html
-chmod o+rx public_html
+# and with the exception of public_html
+chmod go+rx public_html
 ```
 
 If you already have other files and folders in public_html
 
 ```sh
 # Give others the permission to read all the files
-find -type f -exec chmod o+r {} +
+find -type f -exec chmod go+r {} +
 # Give others the permission to enter the directories
-find -type d -exec chmod o+x {} +
+find -type d -exec chmod go+x {} +
 ```
 
 ## Automatic
