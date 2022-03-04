@@ -70,12 +70,14 @@ This template includes a continuous integration and deployment (CI/CD) configura
 
 Three steps:
 
-1. Setting up the values for the variables in `.gitlab-ci.yml`
+1. Setting up the values for the variables in `.gitlab-ci.yml` (explained later)
 1. Modifying `.gitlab-ci.yml` according to your username and the deployment folder on the web server
 1. Activating a runner in `Settings - CI/CD - Runners`. A shared runner may be available. 
 1. Check the status of the runner on the main page of your repository. If successful, you should see the result on the web address, e.g., https://joan.th-deg.de/~gaydos/sphinx-book-template
 
-The explanation for the first steps follows:
+After about a few minutes the runner should pick up your job and execute your pipeline.
+
+The explanation for the first step follows:
 
 ### Setting up the values for the variables in `.gitlab-ci.yml`
 
@@ -116,5 +118,6 @@ ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOBL7HM8eE9jmBm5Yz/sJeStc3mGAJp5R8EvVJ4zb9T9
 # Further docs
 
 - [Sphinx-book theme – Get Started](https://sphinx-book-theme.readthedocs.io). 
+- [Gallery of books based on this library](https://executablebooks.org/en/latest/gallery.html)
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
