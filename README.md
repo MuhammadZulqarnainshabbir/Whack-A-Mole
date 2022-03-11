@@ -117,7 +117,9 @@ ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOBL7HM8eE9jmBm5Yz/sJeStc3mGAJp5R8EvVJ4zb9T9
 
 # Further docs
 
-- [Sphinx-book theme – Get Started](https://sphinx-book-theme.readthedocs.io). 
-- [Gallery of books based on this library](https://executablebooks.org/en/latest/gallery.html)
+- [Sphinx-book theme – Get Started](https://sphinx-book-theme.readthedocs.io)
+- What is this template capable of?
+  - [Sphinx-book theme – Paragraph level markup](https://sphinx-book-theme.readthedocs.io/en/stable/reference/kitchen-sink/paragraph-markup.html)
+  - [Gallery of books based on this library](https://executablebooks.org/en/latest/gallery.html)
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
