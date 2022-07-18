@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Sphinx-book template'
+project = 'Whack-A-Mole-Game'
 copyright = 'Creative Commons Attribution 4.0 International License'
-author = 'Gökçe Aydos'
+author = 'Muhammad Zulqarnain Shabbir'
 
 
 # -- General configuration ---------------------------------------------------
