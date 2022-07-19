@@ -12,10 +12,10 @@ The output of the both the score and time will display on a seven segment displa
 
 ## Modules
 
-1:A Score counter 
-2:A Time counter
-3:Binary to BCD converter
-4:Output on Seven Segment Display
+- A Score counter 
+- A Time counter
+- Binary to BCD converter
+- Output on Seven Segment Display
 
 ## Block Diagram
 
