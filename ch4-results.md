@@ -4,15 +4,20 @@ The final version of the game allows the user to Whack the Moles with the Switch
 The session timer starts counting down from 20 seconds, and the final score is displayed on the Seven Segment Display.
 
 <p align="center">
-  <img src="https://lh3.google.com/u/1/d/1fCgSctkYTM3Pq1OplA3kPtmFUo0GAhOA=w1920-h942-iv1" width="1920" title="hover text">
+  <img src="https://lh3.google.com/u/1/d/10CkA6lS_SEEhmQTv65DfJKA3_J_dS1xh=w1920-h942-iv1" width="1920" title="hover text">
   
 </p>
-  <p align="center">
-  <img src="src="src="https://mygit.th-deg.de/-/ide/project/ms18426/sphinx-book-template/tree/main/-/Images/Comp_1_1023.jpg" width="1080" title="hover text"></p>
-
-  <p align="center">
-  <img src="src="https://mygit.th-deg.de/-/ide/project/ms18426/sphinx-book-template/tree/main/-/Images/Comp_1_1535.jpg/" width="1080" title="hover text">
+  
+<p align="center">
+  <img src="https://lh3.google.com/u/1/d/14QKNper01FXuZw7fD59kJ3Cv4mtxCwvq=w1038-h942-iv1" width="1920" title="hover text">
+  
 </p>
+  
+  <p align="center">
+  <img src="https://lh3.google.com/u/1/d/1fCXHzO9vLPL9dEDbBjI_g6ytWu-HfQMT=w1920-h942-iv1" width="1920" title="hover text">
+  
+</p>
+  
 ## Further additions
 
 As i am finished with the project i thought about what could have been added further to
