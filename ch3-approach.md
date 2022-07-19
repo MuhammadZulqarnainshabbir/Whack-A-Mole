@@ -26,15 +26,14 @@ The output of the both the score and time will display on a seven segment displa
 
 ## Detail Working
 
-Score Count Counting the number of whacks on the mole
-Input is basically 16 Switches and we are using system clock here which basically outputs 16 leds
-It just randomnly lights up the LED which represents moles, and it also keep records of Score Count
-Everytime the led is light up and adjacent switch is fliped the counter goes up by one that keeps record of score.
-Time Counter is basically takes one sec clock, Which is fed into timer Count, timer start with 2o goes all the way
-to zero.
-The Score count and Timer is than fed to Binary to BCD converter Which than fed to mux and than t0 7 segment display.
-Whats Gona happen is i have a slow clock here 100Hz, i will use this clock to toggel four seven segment display.
-Every 10ms the two bit counter, itilay it set to value of 00 which is fed into mux, the timerones which go pass the mux
-goes to BCD 7 seg and 00 is also fed into Decoder, one of seven segment will be on and rest will not and whatever the timer 
-one will be Disaplayed on the oned Seven 7 segement display. Again After 10ms bit counter goes to 01 and another 7 segment 
-display will on and it will display timer 10s there, Similarly it will display Score count
+
+- Input is basically 16 Switches and we are using system clock here which basically outputs 16 leds
+-It just randomnly lights up the LED which represents moles, and it also keep records of Score Count.
+- Everytime the led is light up and adjacent switch is fliped the counter goes up by one that keeps record of score.
+- Time Counter is basically takes 1 sec clock, Which is fed into timer Count, timer start with 20 goes all the way to 0.
+- The Score count and Timer is than fed to Binary to BCD converter Which than fed to mux and than t0 7 segment display.
+- We used a slow clock here 100Hz to toggel four seven segment display which is fed to 
+2 bit counter.
+- After 10ms the two bit counter which is initially it set to value of 00 is fed into mux, the timer-ones which go pass to the mux and from there goes to BCD 7 seg and bit counter 00 is also fed into Decoder and one of seven segment will turn on and rest of them will not turn on and whatever the timer-one will be Disaplayed on the oned Seven 7 segement display.
+- Again After 10ms bit counter goes to 01 and another 7 segment display will turn on and it will display timer 10s there.
+- Similarly it will display Score count in similar fashion.
