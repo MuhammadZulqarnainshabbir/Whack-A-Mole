@@ -10,7 +10,7 @@ ch1-problem.md
 ch2-relevant-concepts.md
 ch3-approach.md
 ch4-results.md
-editing_video.md
-markdown_examples.md
 
+markdown_examples.md
+editing_video.md
 ```
