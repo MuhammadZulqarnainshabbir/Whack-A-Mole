@@ -18,7 +18,7 @@
 # How to Build and Run the Project(Windows/Linux)
  
 - Open Vivado
-- Connect to Boolean Board via Usb cabel
+- Connect to Boolean Board via Usb cabel and set up the vivado enviorment
 - Open the Whack A Mole game 
 - You can use already Generated BitStream File to program device
 - or You can run synthese process to generate BitStream File and Program your device
