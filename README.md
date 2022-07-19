@@ -4,16 +4,16 @@
 
 
 # Project Proposal
-  To understand the context of Project se the Project Proposal
-[Proposal](https://mygit.th-deg.de/ms18426/FPGA-Final-Project)
+  - To understand the context of Project se the Project Proposal
+- [Proposal](https://mygit.th-deg.de/ms18426/FPGA-Final-Project)
 
 
 # Project Report
- To understand the Final results and findings see the Report
-[Report](https://joan.th-deg.de/~ms18426/sphinx-book-template/)
+ - To understand the Final results and findings see the Report
+- [Report](https://joan.th-deg.de/~ms18426/sphinx-book-template/)
 
 # Project Repo
-[Project Repo](https://mygit.th-deg.de/ms18426/FPGA-Final-Project)
+- [Project Repo](https://mygit.th-deg.de/ms18426/FPGA-Final-Project)
 
 # How to Build and Run the Project(Windows/Linux)
  
