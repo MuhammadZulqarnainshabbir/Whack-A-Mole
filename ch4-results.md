@@ -7,7 +7,7 @@ The session timer starts counting down from 20 seconds, and the final score is d
   <img src="src="src="https://lh3.google.com/u/1/d/10CkA6lS_SEEhmQTv65DfJKA3_J_dS1xh=w1920-h942-iv1" width="1080" title="hover text">
 
   <p align="center">
-  <img src="src="src="https://lh3.google.com/u/1/d/1fCXHzO9vLPL9dEDbBjI_g6ytWu-HfQMT=w1038-h942-iv1" width="1080" title="hover text">
+  <img src="src="src="https://lh3.google.com/u/1/d/1fCgSctkYTM3Pq1OplA3kPtmFUo0GAhOA=w1038-h942-iv1" width="1080" title="hover text">
 
   <p align="center">
   <img src="src="https://lh3.google.com/u/1/d/1fCXHzO9vLPL9dEDbBjI_g6ytWu-HfQMT=w1038-h942-iv1" width="1080" title="hover text">
