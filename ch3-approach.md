@@ -1,4 +1,4 @@
-# Approach
+# # Approach
 
 - What was your approach to the problem and what is your solution?
 - You should also include approaches that did not work.
@@ -10,21 +10,21 @@ LEDs as Moles
 
 The output of the both the score and time will display on a seven segment display.
 
-##Modules
+## Modules
 
 1:A Score counter 
 2:A Time counter
 3:Binary to BCD converter
 4:Output on Seven Segment Display
 
-#Block Diagram
+# Block Diagram
 
 <p align="center">
   <img src="https://lh3.google.com/u/0/d/1TW5dVH_bIU5aARj2I9uMmL4-0ItDH6Xi=w1920-h942-iv1" width="1920" title="hover text">
   
 </p>
 
-##Detail Working
+## Detail Working
 
 Score Count Counting the number of whacks on the mole
 Input is basically 16 Switches and we are using system clock here which basically outputs 16 leds
