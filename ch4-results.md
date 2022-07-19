@@ -31,5 +31,5 @@ this project to make it more interesting.
 I thought if two players play this game on FPGA (for some reason) they have to remember 
 the score of one another in order to compare for deciding who is winner. But some if i am able to save socre after a 20 sec session and after every 2 sessions display both on DISP1 and DISP2 Seperatly on board. 
 
-Results and takeaways.
+
 
