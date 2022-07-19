@@ -10,7 +10,7 @@ LEDs as Moles
 
 The output of the both the score and time will display on a seven segment display.
 
-## Modules
+## Main Modules
 
 - A Score counter 
 - A Time counter
