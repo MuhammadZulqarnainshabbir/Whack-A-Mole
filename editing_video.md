@@ -159,7 +159,4 @@ Output:
 
 Refer to [`<video>` tag at MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video) for options.
 
-<div>
-<iframe src="https://youtu.be/pYrp-NqS280" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="600px" allowfullscreen></iframe>
-
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pYrp-NqS280" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
