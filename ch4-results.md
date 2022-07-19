@@ -4,7 +4,8 @@ The final version of the game allows the user to Whack the Moles with the Switch
 The session timer starts counting down from 20 seconds, and the final score is displayed on the Seven Segment Display.
 
 <p align="center">
-  <img src="src="src="https://mygit.th-deg.de/-/ide/project/ms18426/sphinx-book-template/tree/main/-/Images/image__2_-1.png/" width="1080" title="hover text">
+  <img src="https://lh3.google.com/u/0/d/1TW5dVH_bIU5aARj2I9uMmL4-0ItDH6Xi=w1920-h942-iv1" width="1920" title="hover text">
+  
 </p>
   <p align="center">
   <img src="src="src="https://mygit.th-deg.de/-/ide/project/ms18426/sphinx-book-template/tree/main/-/Images/Comp_1_1023.jpg" width="1080" title="hover text"></p>
