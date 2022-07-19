@@ -1,6 +1,6 @@
 # Whack A Mole Game
 
-#Problem Statement
+# Problem Statement
 
 Our project goal was to create a playable Whack-A-Mole game in Verilog and implement it on the FPGA board. The "moles," which are represented by LEDs on the Board, are "whacked" by the user pressing a Switches for each of the LEDs. The 7-segment display is used to demonstrate the game timer, and the user's score.
 
