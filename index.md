@@ -9,7 +9,7 @@ This is a Sphinx-book template that you can use for your report. Markdown exampl
 ch1-problem.md
 ch2-relevant-concepts.md
 ch3-approach.md
-ch5-results.md
-ch6-markdown_examples.md
-ch7-editing_video.md
+ch4-results.md
+ch5-markdown_examples.md
+ch6-editing_video.md
 ```
