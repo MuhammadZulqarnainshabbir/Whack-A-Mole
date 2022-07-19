@@ -17,7 +17,7 @@ The output of the both the score and time will display on a seven segment displa
 3:Binary to BCD converter
 4:Output on Seven Segment Display
 
-<img src="https://drive.google.com/file/d/1TW5dVH_bIU5aARj2I9uMmL4-0ItDH6Xi/view?usp=sharing" alt="Italian Trulli">
+`<img src="https://drive.google.com/file/d/1TW5dVH_bIU5aARj2I9uMmL4-0ItDH6Xi/view?usp=sharing" alt="Girl in a jacket">`
 
 ##Detail Working
 
