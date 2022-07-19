@@ -16,8 +16,12 @@ The output of the both the score and time will display on a seven segment displa
 2:A Time counter
 3:Binary to BCD converter
 4:Output on Seven Segment Display
-![alt text](https://drive.google.com/file/d/1TW5dVH_bIU5aARj2I9uMmL4-0ItDH6Xi/view?usp=sharing)
-[](https://drive.google.com/file/d/1TW5dVH_bIU5aARj2I9uMmL4-0ItDH6Xi/view?usp=sharing)
+
+
+<p align="center">
+  <img src="https://drive.google.com/file/d/1TW5dVH_bIU5aARj2I9uMmL4-0ItDH6Xi" width="350" title="hover text">
+  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+</p>
 
 ##Detail Working
 
