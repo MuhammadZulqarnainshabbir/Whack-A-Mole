@@ -3,7 +3,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pYrp-NqS280" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-**Explaination**
+# Explaination
 
 -  At Start Time is at 20 and Score is at 0
 -  Timer Start in decending order
