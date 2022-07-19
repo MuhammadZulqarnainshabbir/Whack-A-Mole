@@ -3,7 +3,7 @@
 This is a Sphinx-book template that you can use for your report. Markdown examples are included.
 
 ```{toctree}
-:maxdepth: 10
+:maxdepth: 12
 :caption: 'Contents'
 
 ch1-problem.md
