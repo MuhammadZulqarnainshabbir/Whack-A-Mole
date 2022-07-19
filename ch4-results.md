@@ -4,7 +4,7 @@ The final version of the game allows the user to Whack the Moles with the Switch
 The session timer starts counting down from 20 seconds, and the final score is displayed on the Seven Segment Display.
 
 <p align="center">
-  <img src="https://lh3.google.com/u/0/d/1TW5dVH_bIU5aARj2I9uMmL4-0ItDH6Xi=w1920-h942-iv1" width="1920" title="hover text">
+  <img src="https://lh3.google.com/u/1/d/1fCgSctkYTM3Pq1OplA3kPtmFUo0GAhOA=w1920-h942-iv1" width="1920" title="hover text">
   
 </p>
   <p align="center">
