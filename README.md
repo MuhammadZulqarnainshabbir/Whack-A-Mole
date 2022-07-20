@@ -14,7 +14,7 @@
 - [Report](https://joan.th-deg.de/~ms18426/sphinx-book-template/)
 
 # Project Repo
-- [Project Repo](https://mygit.th-deg.de/ms18426/FPGA-Final-Project)
+- [Project Repo](https://mygit.th-deg.de/ms18426/FPGA-Final-Project/-/tree/main/Game_Whack)
 
 # How to Build and Run the Project(Windows/Linux)
  
