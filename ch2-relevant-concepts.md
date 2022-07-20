@@ -14,7 +14,7 @@ was my inspiration, It explained the whole idea of Whack A Mole Game Theoratical
  **Their Work**
  - use 5 Buttons on Board to as Whack and 5 LEDs as Moles
   - use 7 segment display to display score and time
- **My Work**
+- **My Work**
  - Use 16 Switches as hammar
  - use 16 LEDs as moles
  - use 7 segment display to display score and time
