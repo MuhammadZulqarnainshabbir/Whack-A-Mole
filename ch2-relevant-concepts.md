@@ -11,10 +11,10 @@ For Reading literature about the basic working of game
 
 For Reading literature about the basic working of game and how it works in real life
 
-[Whack-a-Mole Using a FPGA Board](https://www.instructables.com/Whack-a-Mole-Using-a-FPGA-Board/)
+[Whack-a-Mole Using a FPGA Board by Simon Gilbert, Grayson Wiggins, Paul Adan, Will Holden, and  Yousuf Baker](https://www.instructables.com/Whack-a-Mole-Using-a-FPGA-Board/)
 
-- This Project By **Simon Gilbert, Grayson Wiggins, Paul Adan, Will Holden, and  Yousuf Baker**
-was inspired me the most.
+- This Project By Simon Gilbert, Grayson Wiggins, Paul Adan, Will Holden, and  Yousuf Baker
+was inspired me the most. Their block diagram was very well explianed.
  
  **Their Work**
  - use 5 Buttons on Board to as Whack and 5 LEDs as Moles.
