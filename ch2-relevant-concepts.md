@@ -1,10 +1,15 @@
 # Relevant concepts
 
-Introduce the relevant concepts to understand the problem and your solution.
+
 
 [WINNING AT WHAC-A-MOLE](https://president.central.edu/2013/11/winning-at-whac-a-mole/)
 
-Read literature about the basic working of game and how it works in real life
+For Reading literature about the basic working of game
+
+[DDR Whack-A-Mole by Ara Adhikari, Victoria Ouyang, Davis Tran
+](http://web.mit.edu/6.111/www/f2017/projects/vsouyang_Project_Final_Report.pdf)
+
+For Reading literature about the basic working of game and how it works in real life
 
 [Whack-a-Mole Using a FPGA Board](https://www.instructables.com/Whack-a-Mole-Using-a-FPGA-Board/)
 
