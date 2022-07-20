@@ -14,7 +14,7 @@ For Reading literature about the basic working of game and how it works in real 
 [Whack-a-Mole Using a FPGA Board](https://www.instructables.com/Whack-a-Mole-Using-a-FPGA-Board/)
 
 - This Project By **Simon Gilbert, Grayson Wiggins, Paul Adan, Will Holden, and  Yousuf Baker**
-was my inspiration, It explained the whole idea of Whack A Mole Game Theoratically and Graphically.
+was inspired me the most.
  
  **Their Work**
  - use 5 Buttons on Board to as Whack and 5 LEDs as Moles.
