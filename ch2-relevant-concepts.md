@@ -12,9 +12,11 @@ Read literature about the basic working of game and how it works in real life
 was my inspiration, It explained the whole idea of Whack A Mole Game Theoratically and Graphically.
  
  **Their Work**
- - use 5 Buttons on Board to as Whack and 5 LEDs as Moles
-  - use 7 segment display to display score and time
-- **My Work**
+ - use 5 Buttons on Board to as Whack and 5 LEDs as Moles.
+  - use 7 segment display to display score and time.
+
+ **My Work**
+
  - Use 16 Switches as hammar
  - use 16 LEDs as moles
  - use 7 segment display to display score and time
