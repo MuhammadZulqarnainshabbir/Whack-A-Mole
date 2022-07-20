@@ -16,10 +16,7 @@ For Reading literature about the basic working of game and how it works in real 
 - This Project By Simon Gilbert, Grayson Wiggins, Paul Adan, Will Holden, and  Yousuf Baker
 was inspired me the most. Their block diagram was very well explianed.
  
- **Their Work**
- - use 5 Buttons on Board to as Whack and 5 LEDs as Moles.
-  - use 7 segment display to display score and time.
-
+ 
  **My Work**
 
  - Use 16 Switches as hammar
