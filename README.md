@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Whack A Mole Game
  - **Student Name: Muhammad Zulqarnain Shabbir**
  - **Matriculation Number: 22108426**
@@ -25,3 +26,7 @@
 - or You can run synthese process to generate BitStream File and Program your device
 - You can also run Behaviour Simulation
  
+=======
+# Whack-A-Mole
+whack a mole is very interesting game, we often find in malls, i implemented it for my FPGA programming
+>>>>>>> origin/main
